@@ -1,23 +1,31 @@
 <h1 align=center> eTools </h1>
 
+### 😮  Complete : 
+---
+- CDN
+- Coding IDE
+- URL Shortener
+- Graphing Calculator
+---
+
 ### 🤩 Upcoming :
 ---
-- Media Hosting (cdn)
-- Link Shortner service
 - pdf to other file formats
 - Other file formats to pdf
-- Coding IDE
+- Decryption services
+- Hardware checker
 - and Much more ...
 ---
 
 ### 🔗 Links : 
 ---
-`Website` : https://etools.ml
+`Website` : https://etools.tech
 <br>
-`Live preview` : https://beta.etools.ml
-
+`CDN` : https://cdn.etools.tech
+<br>
+`IDE` : https://code.etools.tech
 ---
 
-Subscribe to the news feed to be notified when we launch the website 😄
+Give the repository a star and show your support 😄
 
 #### Contributions and sponsorships to this project are welcome!
