@@ -1,4 +1,9 @@
+<img src = "https://cdn.etools.tech/cLHU.svg" align='left'>
+<img src = "" align='right'>
+
 <h1 align=center> eTools </h1>
+<h3 align=center> Accepting PRs for Hactoberfest 2022 </h3>
+<br><br><br><br>
 
 ### 😮  Complete : 
 ---
