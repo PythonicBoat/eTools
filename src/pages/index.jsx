@@ -27,7 +27,7 @@ export default function Home() {
                         >
                             <Image
                                 src="/github-button.svg"
-                                alt="Octobear Github"
+                                alt="ETOOLSAPP Github"
                                 width="200"
                                 height="54"
                             />
