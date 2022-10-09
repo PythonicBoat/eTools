@@ -2,42 +2,84 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <title>eTools</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robot" content="ALL" />   
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="yahoobot" content="index, follow" />
+    <meta name="author" content="PythonicBoat"/>
+    <meta name="revisit-after" content="3 days" />
+    <meta name="expires" content="never" />
+    <meta name="generator" content="" />
+    <meta name="rating" content="general" />
+    <meta name="lang" content="en" />
+    <meta name="doc-type" content="webpage" />
+    <meta name="description" content="A collection of day-to-day web utilities on the go!">
+    <meta name="keywords" content="">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2386262603049273" crossorigin="anonymous"></script>
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
-
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+    <style>
+      body, html {
+        height: 100vh;
+        width:100wh;
+        margin: 0;
+      }
+      
+      .topleft {
+        position: absolute;
+        top: 0;
+        left: 16px;
+      }
+      
+      .bottomleft {
+        position: absolute;
+        bottom: 0;
+        left: 16px;
+      }
+      
+      .middle {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+      }
+      
+      hr {
+        margin: auto;
+        width: 40%;
+      }
+      </style>
+      <body>
+      
+          <div class="bgimg">
+        <div class="topleft">
+          <p></p>
+        </div>
+        <div class="middle">
+          <h1>Coming Soon</h1>
+          <hr>
+          <p id="demo" style="font-size:30px"></p>
+        </div>
+        <div class="bottomleft">
+          <p></p>
+        </div>
+      </div>
+      
+      <script>
+      </script>
+      
+      </body>
+      </html>
   </body>
 </html>

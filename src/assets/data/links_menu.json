@@ -4,15 +4,15 @@
         "url": "/"
     },
     {
-        "title": "Programs",
-        "url": "/programs"
+        "title": "calculator",
+        "url": "/calculator"
     },
     {
-        "title": "Opportunities",
-        "url": "/opportunities"
+        "title": "404",
+        "url": "/404"
     },
     {
-        "title": "Resources",
+        "title": "resources",
         "url": "/resources"
     }
 ]
