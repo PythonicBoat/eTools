@@ -11,7 +11,7 @@ function AppLayout({ Component, pageProps }) {
     return (
         <LayoutContainer>
             <Head>
-                <title>ETOOLSAPP</title>
+                <title>eTools</title>
             </Head>
             <Navbar />
             <Component className="mb-auto flex-grow" {...pageProps} />

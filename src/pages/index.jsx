@@ -6,12 +6,10 @@ export default function Home() {
         <section className="bg-blue-50 dark:bg-gray-900 ">
             <div className="py-8 px-4 mx-auto max-w-screen-xl  text-center lg:py-16 lg:px-12">
                 <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
-                    Our Community of Open Source projects.
+                    eTools - Redifining web
                 </h1>
                 <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
-                    This organisation is the home of open source! Make Pull
-                    Requests, open Issues, share ideas, help each other and make
-                    improvements!
+                    A web based cross-platform utility app to manage all your development needs.
                 </p>
                 <div className="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
                     <span className="font-semibold text-gray-400 uppercase">
