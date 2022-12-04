@@ -5,13 +5,13 @@ export default function Home() {
     return (
         <section className="bg-blue-50 dark:bg-gray-900 ">
             <div className="py-8 px-4 mx-auto max-w-screen-xl  text-center lg:py-16 lg:px-12">
-                <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
+                <h1 className="mb-4 text-4xl m-20 sm:text-center font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
                     eTools - Redifining web
                 </h1>
-                <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
+                <p className="mb-8 text-lg font-normal text-gray-500 m-5 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
                     A web based cross-platform utility app to manage all your development needs.
                 </p>
-                <div className="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
+               { /* <div className="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
                     <span className="font-semibold text-gray-400 uppercase">
                         FEATURED IN
                     </span>
@@ -31,7 +31,7 @@ export default function Home() {
                             />
                         </a>
                         <a
-                            href="/"
+                            href="https://discord.gg/"
                             target="_blank"
                             className=" hover:text-gray-800 dark:hover:text-gray-400 flex items-center"
                             rel="noreferrer"
@@ -43,14 +43,8 @@ export default function Home() {
                                 height="54"
                             />
                         </a>
-                    </div>
-                </div>
-                <Image
-                    width="480"
-                    height="360"
-                    src="/etoolsapp.png"
-                    alt="mockup"
-                />
+                    </div> 
+    </div> */ }
             </div>
         </section>
     )

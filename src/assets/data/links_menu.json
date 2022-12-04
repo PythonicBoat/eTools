@@ -8,8 +8,12 @@
         "url": "/calculator"
     },
     {
-        "title": "404",
-        "url": "/404"
+        "title": "cdn",
+        "url": "/cdn"
+    },
+    {
+        "title": "code",
+        "url": "/code"
     },
     {
         "title": "resources",
