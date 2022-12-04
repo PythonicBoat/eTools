@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-html-link-for-pages */
 import React, { useEffect, useState } from "react"
-import Image from "next/future/image"
+// import Image from "next/future/image"
 import { FaWindowClose, FaMoon, FaSun } from "react-icons/fa"
 import { useRouter } from "next/router"
 import LinksData from "../../assets/data/links_menu.json"
