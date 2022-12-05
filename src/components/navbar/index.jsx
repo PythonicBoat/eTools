@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-html-link-for-pages */
 import React, { useEffect, useState } from "react"
-// import Image from "next/future/image"
+import Image from "next/image"
 import { FaWindowClose, FaMoon, FaSun } from "react-icons/fa"
 import { useRouter } from "next/router"
 import LinksData from "../../assets/data/links_menu.json"
@@ -152,7 +152,7 @@ export default function Navbar() {
                         type="button"
                         className="text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-5 text-gray-400 hover:text-gray-900 dark:hover:text-white"
                     >
-                    <img src="https://cdn.etools.tech/mvo7.svg"></img>
+                    <Image src="https://cdn.etools.tech/mvo7.svg" alt="discord" />
                     </a>
                         <li className="pr-4">
                             <button
